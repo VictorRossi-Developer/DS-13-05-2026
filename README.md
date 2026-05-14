@@ -43,3 +43,14 @@
 <img width="886" height="470" alt="image" src="https://github.com/user-attachments/assets/630cfc6a-a740-454f-b982-dfdb03071565" />
 <img width="886" height="471" alt="image" src="https://github.com/user-attachments/assets/eee9421c-8ddb-4b9d-a070-38f5e832e1cc" />
 <img width="886" height="472" alt="image" src="https://github.com/user-attachments/assets/041a19da-01c1-421a-a9ae-bc300674a315" />
+
+<img width="466" height="441" alt="image" src="https://github.com/user-attachments/assets/51e7f3a1-51e4-4fc8-98cf-ab3ccacf47a0" />
+
+
+# Conversor de Temperatura  
+
+<img width="886" height="473" alt="image" src="https://github.com/user-attachments/assets/39892049-8a1f-4e79-bed8-8f044285ad02" />
+<img width="886" height="472" alt="image" src="https://github.com/user-attachments/assets/2d420846-dd79-4213-8338-4dbbb43c0d70" />
+<img width="886" height="473" alt="image" src="https://github.com/user-attachments/assets/fe021b8a-b8ab-4685-af43-7455a984e152" />
+
+<img width="728" height="620" alt="image" src="https://github.com/user-attachments/assets/caf7d58d-7371-4e86-8e3a-f4e6add13fe7" />
